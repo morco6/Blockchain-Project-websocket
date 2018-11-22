@@ -383,8 +383,8 @@ io.on('connection', (socket) => {
                                     var transporter = nodemailer.createTransport({
                                         service: 'gmail',
                                         auth: {
-                                            user: 'morcohen739@gmail.com',
-                                            pass: '#Aa12345'
+                                            user: 'YourEmailAdress@gmail.com',
+                                            pass: 'YourPassword'
                                         }
                                     });
 

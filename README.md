@@ -1,3 +1,6 @@
+For more details and pictures:
+http://www.morc.io/CRYPTO%20CURRENCY%20BLOCKCHAIN
+
 ## First of all...
 I remember it all started when there was a big buzz around the blockchain world and cryptographic currencies (especially around the Bitcoin currency). I started reading about the topic and was very excited about the idea itself. In addition, the subject of cryptography and cyber security was very interesting to me at that time. So I downloaded the article "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto (the legend) that explains in an excellent way how the system works! For example, how to solve the double-spending problem to avoid the need for a trusted third party with money transactions via "Proof Of Work" based on "Consensus Mechanism". Of course I tried to implement it. The choice was Node.js for the reason I also wanted to experiment with this platform at the time.. So why not to kill two birds with one stone? ;)
 

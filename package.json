@@ -22,7 +22,7 @@
     "jade": "^1.11.0",
     "mathjs": "^5.2.2",
     "mongodb": "^3.1.8",
-    "node-forge": "^0.7.6",
+    "node-forge": "^1.0.0",
     "nodemailer": "^4.6.8",
     "nodemon": "^1.18.4",
     "request": "^2.88.0",

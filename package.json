@@ -28,7 +28,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "sha256": "^0.2.0",
-    "socket.io": "^1.4.8",
+    "socket.io": "^4.5.3",
     "uniqid": "^5.0.3",
     "uuid": "^3.3.2",
     "validator": "^10.8.0"
